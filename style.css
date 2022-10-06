@@ -1,0 +1,14 @@
+form{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+    background-color: aquamarine;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px aqua;
+    max-width: 80%;
+    margin: auto;
+}
